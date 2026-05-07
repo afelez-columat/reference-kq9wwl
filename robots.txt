@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://afelez-columat.github.io/reference-kq9wwl/sitemap.xml
